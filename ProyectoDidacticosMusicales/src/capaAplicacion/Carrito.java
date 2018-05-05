@@ -12,4 +12,7 @@ package capaAplicacion;
 public class Carrito {
      //123
      int x=0
+          
+          
+          djknjkanawkwd
 }
