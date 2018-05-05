@@ -10,10 +10,6 @@ package capaAplicacion;
  * @autor ModuloVenta
  */
 public class CtrlVenta {
-    
+    //HOLA MUNDO
 }
-rw3qio  
 
-ef we vw
- f
-  ewe we ef f
