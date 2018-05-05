@@ -12,3 +12,8 @@ package capaAplicacion;
 public class CtrlVenta {
     
 }
+rw3qio  
+
+ef we vw
+ f
+  ewe we ef f
